@@ -1,0 +1,31 @@
+{
+ "height":4,
+ "width":4,
+ "tilewidth":160,
+ "tileheight":160,
+ "version":1,
+ "layers":[
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":4,
+         "name":"Tiles",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":4,
+         "x":0,
+         "y":0
+        }],
+ "orientation":"orthogonal",
+ "tilesets":[{
+     "firstgid":1,
+     "imageheight":1132,
+     "imagewidth":810,
+     "margin":1,
+     "name":"Background",
+     "image":"assets/images/button-hint6@2x.png",
+     "spacing":2,
+     "tileheight":160,
+     "tilewidth":160
+    }]
+}
