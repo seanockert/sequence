@@ -1,0 +1,17 @@
+{
+  "name": "Sequence",
+  "short_name": "Sequence",
+  "description": "Tap the numbers in order. Get a high score",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
